@@ -5,6 +5,6 @@
 ### Screenshots
 
 <div style="display:flex; justify-content:space-around;">
-<img src="screenshots/1.png" />
-<img src="screenshots/2.png" /> 
+<img src="screensots/1.png" width="45%" />
+<img src="screensots/2.png" width="45%" /> 
 </div>
