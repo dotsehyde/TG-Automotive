@@ -4,11 +4,7 @@
 
 ### Screenshots
 
-<table>
-<tr>
-<td><img src="./screenshots/1.png"/> </td>
-</tr>
-<tr>
-<td><img src="./screenshots/2.png"/> </td>
-</tr>
-</table>
+<div style="display:flex; justify-content:space-around;">
+<img src="screenshots/1.png" />
+<img src="screenshots/2.png" /> 
+</div>
